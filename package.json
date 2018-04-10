@@ -1,4 +1,7 @@
 {
+    "scripts": {
+        "start": "node app.js"
+    },
     "title": "Resume",
     "name": "startbootstrap-resume",
     "version": "4.0.0",
