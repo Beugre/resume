@@ -1,6 +1,7 @@
 {
     "scripts": {
-        "start": "node app.js"
+     "start": "node server.js"
+     "postinstall": "bower install && gulp build-libs && gulp build"
     },
     "title": "Resume",
     "name": "startbootstrap-resume",
